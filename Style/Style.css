@@ -1,0 +1,35 @@
+body {
+  background-image: url(../imagens/imagem.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row {
+    text-align: center;
+    padding: 1%;
+}
+
+h1 {
+    font-size: 500%;
+    text-shadow: 5px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -2px -1px 1px black;
+    color: white;
+}
+
+.center {
+    margin: 10px auto;
+    text-align: center;
+    padding: 5%;
+}
+
+input {
+    font-size: 150%;
+    border-radius: 5px;
+}
+
+button {
+    margin: 3px;
+    font-size: 150%;
+    border-radius: 5px;
+    color: black;
+}
+
